@@ -1,0 +1,52 @@
+/* styles.css */
+body {
+    background-color: lightblue;
+    background-image: url("https://www.hdwallpapers.in/thumbs/2021/white_flowers_branches_in_white_background_hd_white_aesthetic-t2.jpg");
+    background-position: center;
+    background-repeat: no-repeat; 
+	background-size: cover; 
+     height: 100vh;
+}
+
+
+
+
+     a:hover {
+         color: red;
+     }
+     p::first-line {
+         font-weight: bold;
+     }
+ 
+    
+
+.gradient{
+    background:Radial-gradient(hwb(217 67% 5%) , #709fdc,#82afd7);
+    height:500px;
+    width: 600px;
+}
+
+.gradient2{
+    background:LINEAR-gradient(TO TOP,rgb(144, 197, 232), #4299db);
+    height: 500px;
+    width: 600px;
+}
+
+.gradient3{
+    background:CONIC-gradient(TO TOP,rgb(87, 126, 152), #3888c5);
+    height: 500px;
+    width: 600px;
+}
+
+.IMAGES{
+    height:400PX;
+    width: 600PX;
+    background-image: url(https://www.hdwallpapers.in/thumbs/2020/white_flower_4k_8k_hd-t2.jpg);
+    background-repeat: no-repeat; 
+}
+
+.IMAGES:HOVER{
+    height:400PX;
+    width: 600PX;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/037/320/218/non_2x/pure-petal-harmony-white-flowers-in-close-up-on-a-white-background-free-photo.jpg);
+}
